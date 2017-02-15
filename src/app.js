@@ -79,6 +79,7 @@ function processEvent(event) {
                 console.error(err);
             });
     }
+	console.log(#generic.facebook_user_name);
 }
 
 function splitResponse(str) {
